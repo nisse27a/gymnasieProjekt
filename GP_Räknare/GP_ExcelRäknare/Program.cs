@@ -7,14 +7,14 @@ using System.Diagnostics;
 using OfficeOpenXml;
 using System.IO;
 
-namespace GP_Räknare
+namespace GP_ExcelRäknare
 {
     class Program
     {
         static async Task Main(string[] args)
         {
             ExcelPackage.LicenseContext = LicenseContext.NonCommercial;
-            FileInfo file = new FileInfo(fileName:@"dataTest.xlsx");
+            FileInfo file = new FileInfo(fileName: @"dataTest.xlsx");
             List<int> things = new List<int>() { 3, 5, 7, 3, 2, 6, 95, 4, 8, 53 };
             things.Add(9);
             await SaveExcelFile(file, things);
@@ -61,7 +61,7 @@ namespace GP_Räknare
                 times[i] = stopwatch.ElapsedMilliseconds;
                 //Console.WriteLine(times[i]);
             }
-            foreach(decimal time in times)
+            foreach (decimal time in times)
             {
                 Console.WriteLine(time + "\n");
             }

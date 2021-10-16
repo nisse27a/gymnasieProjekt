@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1622
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GP_Räknare", "GP_Räknare\GP_Räknare.csproj", "{71F734FB-E8E1-4ED1-8C51-CE8458A0CCAD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GP_ExcelRäknare", "GP_ExcelRäknare\GP_ExcelRäknare.csproj", "{959D55BB-8397-4968-9EC3-923FA50550CF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{71F734FB-E8E1-4ED1-8C51-CE8458A0CCAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{71F734FB-E8E1-4ED1-8C51-CE8458A0CCAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{71F734FB-E8E1-4ED1-8C51-CE8458A0CCAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{71F734FB-E8E1-4ED1-8C51-CE8458A0CCAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{959D55BB-8397-4968-9EC3-923FA50550CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{959D55BB-8397-4968-9EC3-923FA50550CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{959D55BB-8397-4968-9EC3-923FA50550CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{959D55BB-8397-4968-9EC3-923FA50550CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
