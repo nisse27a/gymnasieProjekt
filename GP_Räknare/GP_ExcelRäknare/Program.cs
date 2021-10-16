@@ -15,7 +15,7 @@ namespace GP_ExcelRäknare
         {
             ExcelPackage.LicenseContext = LicenseContext.NonCommercial;
             FileInfo file = new FileInfo(fileName: @"dataTest.xlsx");
-            List<int> things = new List<int>() { 3, 5, 7, 3, 2, 6, 95, 4, 8, 53 };
+            List<int> things = new List<int>() { 3, 5, 7, 3, 2, 95, 4, 8, 53 };
             things.Add(9);
             await SaveExcelFile(file, things);
             SpeedCalculator();
