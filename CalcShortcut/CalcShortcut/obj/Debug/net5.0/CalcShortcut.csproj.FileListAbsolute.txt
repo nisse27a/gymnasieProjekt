@@ -1,0 +1,16 @@
+C:\Users\nils.tiemer\Source\Repos\CalcShortcut\CalcShortcut\bin\Debug\net5.0\CalcShortcut.exe
+C:\Users\nils.tiemer\Source\Repos\CalcShortcut\CalcShortcut\bin\Debug\net5.0\CalcShortcut.deps.json
+C:\Users\nils.tiemer\Source\Repos\CalcShortcut\CalcShortcut\bin\Debug\net5.0\CalcShortcut.runtimeconfig.json
+C:\Users\nils.tiemer\Source\Repos\CalcShortcut\CalcShortcut\bin\Debug\net5.0\CalcShortcut.runtimeconfig.dev.json
+C:\Users\nils.tiemer\Source\Repos\CalcShortcut\CalcShortcut\bin\Debug\net5.0\CalcShortcut.dll
+C:\Users\nils.tiemer\Source\Repos\CalcShortcut\CalcShortcut\bin\Debug\net5.0\ref\CalcShortcut.dll
+C:\Users\nils.tiemer\Source\Repos\CalcShortcut\CalcShortcut\bin\Debug\net5.0\CalcShortcut.pdb
+C:\Users\nils.tiemer\Source\Repos\CalcShortcut\CalcShortcut\obj\Debug\net5.0\CalcShortcut.csproj.AssemblyReference.cache
+C:\Users\nils.tiemer\Source\Repos\CalcShortcut\CalcShortcut\obj\Debug\net5.0\CalcShortcut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nils.tiemer\Source\Repos\CalcShortcut\CalcShortcut\obj\Debug\net5.0\CalcShortcut.AssemblyInfoInputs.cache
+C:\Users\nils.tiemer\Source\Repos\CalcShortcut\CalcShortcut\obj\Debug\net5.0\CalcShortcut.AssemblyInfo.cs
+C:\Users\nils.tiemer\Source\Repos\CalcShortcut\CalcShortcut\obj\Debug\net5.0\CalcShortcut.csproj.CoreCompileInputs.cache
+C:\Users\nils.tiemer\Source\Repos\CalcShortcut\CalcShortcut\obj\Debug\net5.0\CalcShortcut.dll
+C:\Users\nils.tiemer\Source\Repos\CalcShortcut\CalcShortcut\obj\Debug\net5.0\ref\CalcShortcut.dll
+C:\Users\nils.tiemer\Source\Repos\CalcShortcut\CalcShortcut\obj\Debug\net5.0\CalcShortcut.pdb
+C:\Users\nils.tiemer\Source\Repos\CalcShortcut\CalcShortcut\obj\Debug\net5.0\CalcShortcut.genruntimeconfig.cache
